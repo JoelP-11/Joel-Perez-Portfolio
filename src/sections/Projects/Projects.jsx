@@ -10,15 +10,15 @@ function Projects() {
     <h1 className="sectionTitle">Projects</h1>
     <div className={styles.projectsContainer}>
         <ProjectCard src={viberr} link='https://doc-talk-1217027d6c32.herokuapp.com/' 
-        h3="Viberr"
+        h3="DocTalk"
         p="Streaming App"
         />
-        <ProjectCard src={freshBurger} link='https://doc-talk-1217027d6c32.herokuapp.com/' 
-        h3="Fresh Burger"
+        <ProjectCard src={freshBurger} link='https://joelp-11.github.io/WeatherApp/' 
+        h3="Weather App"
         p="Hamburger Restaurant"
         />
-        <ProjectCard src={hipsster} link='https://doc-talk-1217027d6c32.herokuapp.com/' 
-        h3="Hipsster"
+        <ProjectCard src={hipsster} link='https://joelp-11.github.io/Work-day-Planner/' 
+        h3="WorkDay Planner"
         p="Glasses Shop"
         />
         <ProjectCard src={fitLift} link='https://doc-talk-1217027d6c32.herokuapp.com/' 
