@@ -9,9 +9,9 @@ function Projects() {
   return ( <section id="projects" className={styles.container}>
     <h1 className="sectionTitle">Projects</h1>
     <div className={styles.projectsContainer}>
-        <ProjectCard src={viberr} link='https://doc-talk-1217027d6c32.herokuapp.com/' 
-        h3="DocTalk"
-        p="Streaming App"
+        <ProjectCard src={viberr} link='https://joelp-11.github.io/Flower-project/' 
+        h3="Flowers"
+        p="Pretty animated flowers"
         />
         <ProjectCard src={freshBurger} link='https://joelp-11.github.io/WeatherApp/' 
         h3="Weather App"
